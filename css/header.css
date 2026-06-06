@@ -5,10 +5,12 @@
 
 .header .container {
     display: flex;
+    align-items: center;
 }
 
 .logo {
     font-family: 'Raleway', sans-serif;
+    margin-right: 76px;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.33;
@@ -27,8 +29,12 @@
     color: var(--navy-blue);
 }
 
-.navigation a {
+.navigation {
     display: flex;
+    gap: 40px;
+}
+
+.navigation a {
     font-weight: 500;
     font-size: 16px;
     padding: 24px 0;
@@ -44,7 +50,10 @@
 }
 
 .contacts {
+    display: flex;
+    gap: 40px;
     font-style: normal;
+    margin-left: auto;
     display: flex;
 }
 
