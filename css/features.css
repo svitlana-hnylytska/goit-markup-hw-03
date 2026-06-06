@@ -1,8 +1,10 @@
 .features {
     background: var(--white);
 }
+
 .features-list {
     list-style: none;
+    display: flex;
 }
 
 .title-2 {
@@ -14,6 +16,7 @@
     text-align: center;
     color: var(--navy-blue);
 }
+
 .our-features h3 {
     font-family: 'Raleway';
     font-weight: 500;
@@ -22,6 +25,7 @@
     letter-spacing: 0.02em;
     color: var(--navy-blue);
 }
+
 .our-features p {
     font-family: 'Raleway';
     font-weight: 400;

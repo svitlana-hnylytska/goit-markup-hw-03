@@ -2,6 +2,10 @@
     background: var(--white);
 }
 
+.our-portfolio {
+    display: flex;
+}
+
 .title-2 {
     font-weight: 700;
     font-size: 36px;
@@ -17,6 +21,7 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--navy-blue);
+    border-bottom: 1px solid #e7e9fc;
 }
 
 .portfolio-container p {

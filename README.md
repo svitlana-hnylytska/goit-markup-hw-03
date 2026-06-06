@@ -1,3 +1,3 @@
-# goit-markup-hw-01
-Homework #1
- link to live page: https://svitlana-hnylytska.github.io/goit-markup-hw-01/
+# goit-markup-hw-03
+Homework #3
+ link to live page: https://svitlana-hnylytska.github.io/goit-markup-hw-03/
