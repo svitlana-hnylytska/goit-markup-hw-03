@@ -8,10 +8,6 @@
     gap: 24px;
 }
 
-.our-team li {
-    flex-basis: calc((100% - 72px) / 4);
-}
-
 .title-2 {
     font-family: 'Raleway';
     margin-bottom: 72px;
@@ -28,6 +24,7 @@
     background: var(--white);
     border-radius: 0 0 4px 4px;
     overflow: hidden;
+    flex-basis: calc((100% - 72px) / 4);
 }
 
 .team-container img{
